@@ -94,3 +94,5 @@ Isso ajuda a valorizar meu trabalho e acompanhar minha evolução como desenvolv
 📸 Resultado Final
 
 Projeto desenvolvido com foco em design moderno, interatividade e experiência do usuário, demonstrando habilidades em HTML, CSS e JavaScript. 🚀
+
+<img src="./https://github.com/91douglasfariasantos/Refrigerante-Projeto/blob/master/Readme%20(2).png" alt="">
